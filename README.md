@@ -1,16 +1,12 @@
-### Hi there 👋
+## Olá! 👋
+Sou Vinicius, Desenvolvedor Web Frontend e Designer Digital.
 
-<!--
-**mvsmoreira/mvsmoreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills
+- 👨‍💻 TypeScript, JavaScript
+- ⚙️ React, Nextjs
+- 👁️ SASS, CSS, Styled Components, Chakra UI
+- ‍🎨 Figma, Adobe Photoshop, Adobe Illustrator
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contatos
+- [mvsmoreira93](https://linkedin.com/in/mvsmoreira93/) no LinkedIn
+- [Vinicius Moreira#9554](https://discord.com/users/293889372346908672) no Discord
