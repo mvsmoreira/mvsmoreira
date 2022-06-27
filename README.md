@@ -8,5 +8,6 @@ Sou Vinicius, Desenvolvedor Web Frontend e Designer Digital.
 - ‍🎨 Figma, Adobe Photoshop, Adobe Illustrator
 
 ## Contatos
-- [mvsmoreira93](https://linkedin.com/in/mvsmoreira93/) no LinkedIn
-- [Vinicius Moreira#9554](https://discord.com/users/293889372346908672) no Discord
+- [mvsmoreira93](https://linkedin.com/in/mvsmoreira93/) meu LinkedIn
+- [Vinicius Moreira#9554](https://discord.com/users/293889372346908672) meu Discord
+- [Vinicius Moreira](mailto:mvs.moreira93@gmail.com) meu e-mail
